@@ -13,9 +13,9 @@ import static com.epam.pack2.Second.STATIC_STRING_VARIABLE;
 
 
                 // Checking static method:
-                com.epam.pack1_sample6.First.sayHelloStaticMethod();
+               // com.epam.pack1_sample6.First.sayHelloStaticMethod();
                 // Checking imported static method:
-                com.epam.pack1_sample6.First.sayHelloStaticImportedMethod();
+              //  com.epam.pack1_sample6.First.sayHelloStaticImportedMethod();
 
             }
 
