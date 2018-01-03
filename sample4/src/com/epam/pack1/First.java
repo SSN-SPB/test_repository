@@ -10,8 +10,7 @@ import static com.epam.pack2.Second.STATIC_STRING_VARIABLE;
                 /*com.epam.pack2.*/Second secondPack2 = new /*com.epam.pack2.*/Second();
                 secondPack1.sayHello();
                 secondPack2.sayHello();
-//comment from new branch
-                
+
 
                 // Checking static method:
                // com.epam.pack1_sample6.First.sayHelloStaticMethod();
