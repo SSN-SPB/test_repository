@@ -5,7 +5,7 @@ import static com.epam.pack2.Second.STATIC_STRING_VARIABLE;
             public static void main(String[] args) {
                 System.out.println("Print package1");
 
-// comment from branch  S2L1_training_branch
+
                 com.epam.pack1.Second secondPack1 = new com.epam.pack1.Second();
                 /*com.epam.pack2.*/Second secondPack2 = new /*com.epam.pack2.*/Second();
                 secondPack1.sayHello();
