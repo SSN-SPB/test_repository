@@ -7,7 +7,10 @@ import static com.epam.pack2.Second.STATIC_STRING_VARIABLE;
 
 //comment from master
 
-                // one more comment
+
+
+                //idea commmet
+
                 com.epam.pack1.Second secondPack1 = new com.epam.pack1.Second();
                 /*com.epam.pack2.*/Second secondPack2 = new /*com.epam.pack2.*/Second();
                 secondPack1.sayHello();
