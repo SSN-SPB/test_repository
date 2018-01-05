@@ -11,6 +11,7 @@ import static com.epam.pack2.Second.STATIC_STRING_VARIABLE;
 
                 //idea commmet
                 //idea comment2
+                //idea comment5
 
                 com.epam.pack1.Second secondPack1 = new com.epam.pack1.Second();
                 /*com.epam.pack2.*/Second secondPack2 = new /*com.epam.pack2.*/Second();
