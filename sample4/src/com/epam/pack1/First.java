@@ -6,6 +6,8 @@ import static com.epam.pack2.Second.STATIC_STRING_VARIABLE;
                 System.out.println("Print package1");
 
 //comment from master
+
+                // one more comment
                 com.epam.pack1.Second secondPack1 = new com.epam.pack1.Second();
                 /*com.epam.pack2.*/Second secondPack2 = new /*com.epam.pack2.*/Second();
                 secondPack1.sayHello();
